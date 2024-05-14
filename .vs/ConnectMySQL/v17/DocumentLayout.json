@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B64904-091F-41D7-B23B-FF1CDE2A4460}|ConnectMySQL\\ConnectMySQL.csproj|D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\connectmysql\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B64904-091F-41D7-B23B-FF1CDE2A4460}|ConnectMySQL\\ConnectMySQL.csproj|solutionrelative:connectmysql\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B64904-091F-41D7-B23B-FF1CDE2A4460}|ConnectMySQL\\ConnectMySQL.csproj|d:\\07. it - newlife\\04. project\\29. net\\connectmysql\\connectmysql\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B64904-091F-41D7-B23B-FF1CDE2A4460}|ConnectMySQL\\ConnectMySQL.csproj|solutionrelative:connectmysql\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B64904-091F-41D7-B23B-FF1CDE2A4460}|ConnectMySQL\\ConnectMySQL.csproj|D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\connectmysql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4B64904-091F-41D7-B23B-FF1CDE2A4460}|ConnectMySQL\\ConnectMySQL.csproj|solutionrelative:connectmysql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B64904-091F-41D7-B23B-FF1CDE2A4460}|ConnectMySQL\\ConnectMySQL.csproj|D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\connectmysql\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4B64904-091F-41D7-B23B-FF1CDE2A4460}|ConnectMySQL\\ConnectMySQL.csproj|solutionrelative:connectmysql\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B64904-091F-41D7-B23B-FF1CDE2A4460}|ConnectMySQL\\ConnectMySQL.csproj|D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\connectmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B64904-091F-41D7-B23B-FF1CDE2A4460}|ConnectMySQL\\ConnectMySQL.csproj|solutionrelative:connectmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B64904-091F-41D7-B23B-FF1CDE2A4460}|ConnectMySQL\\ConnectMySQL.csproj|D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\connectmysql\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B64904-091F-41D7-B23B-FF1CDE2A4460}|ConnectMySQL\\ConnectMySQL.csproj|solutionrelative:connectmysql\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\ConnectMySQL\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ConnectMySQL\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\ConnectMySQL\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ConnectMySQL\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T16:50:44.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\ConnectMySQL\\appsettings.json",
+              "RelativeDocumentMoniker": "ConnectMySQL\\appsettings.json",
+              "ToolTip": "D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\ConnectMySQL\\appsettings.json",
+              "RelativeToolTip": "ConnectMySQL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T16:50:18.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\ConnectMySQL\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "ConnectMySQL\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\ConnectMySQL\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "ConnectMySQL\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:39:32.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\ConnectMySQL\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "ConnectMySQL\\Model\\Book.cs",
+              "ToolTip": "D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\ConnectMySQL\\Model\\Book.cs",
+              "RelativeToolTip": "ConnectMySQL\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:14:42.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\ConnectMySQL\\Program.cs",
+              "RelativeDocumentMoniker": "ConnectMySQL\\Program.cs",
+              "ToolTip": "D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\ConnectMySQL\\Program.cs",
+              "RelativeToolTip": "ConnectMySQL\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:11:23.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\ConnectMySQL\\Model\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "ConnectMySQL\\Model\\AppDBContext.cs",
+              "ToolTip": "D:\\07. IT - NEWLIFE\\04. Project\\29. NET\\ConnectMySQL\\ConnectMySQL\\Model\\AppDBContext.cs",
+              "RelativeToolTip": "ConnectMySQL\\Model\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:32:19.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
